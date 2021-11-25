@@ -1,5 +1,5 @@
 import React, { useContext, useReducer, useEffect, useRef, useState, createContext } from 'react';
-
+//Funcionando
 const HOST_API = "http://localhost:8080/api";
 const initialState = {
   todo: { list: [], item: {} }
